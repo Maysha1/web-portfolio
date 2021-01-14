@@ -1,0 +1,107 @@
+body{
+    margin: 0px;
+    
+}
+    
+
+h1{
+    font-size: 50px;
+    font-family: 'Yeon Sung', cursive;
+}
+
+h2{
+    font-size: 30px;
+    font-family: 'Yeon Sung', cursive;
+}
+
+.name-highlight{
+    color:orangered ;
+}
+.hello-clr{
+    color: purple ;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half-width img{
+    width: 100%;
+
+}
+.top-banner{
+    background-image: url("img/top-banner.png") ;
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 191, 231),rgb(236, 0, 146));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: cornsilk;
+    font-weight: 700;
+}
+.font-change{
+    font-size: 20px;
+    font-family: 'Yusei Magic', sans-serif;
+}
+.doenload-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(231, 127, 86),rgb(235, 47, 14));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: cornsilk;
+    font-weight: 700;
+}
+.dream-area{
+    background-image: url("img/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 60px;
+}
+.time-clr{
+    color: darkorange;
+}
+.h3-clr{
+    color: indianred;
+}
+.single-exprience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px ;
+    height: 40%;
+    background-color:white;
+
+}
+.project-area{
+    background-image: url("img/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightSalmon ,tomato );
+    border-image-slice: 1; 
+
+}
+#home-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(95, 166, 233) ,rgb(53, 14, 126) );
+    border-image-slice: 1; 
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+    color: rgb(250, 81, 51);
+}
+.project-side{
+    text-align: left;
+
+}
+
